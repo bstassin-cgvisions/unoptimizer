@@ -1,0 +1,14 @@
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\bin\Release\Unoptimizer.exe.config
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\bin\Release\Unoptimizer.exe
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\bin\Release\Unoptimizer.pdb
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Release\MainWindow.g.cs
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Release\App.g.cs
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Release\Unoptimizer_MarkupCompile.cache
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Release\Unoptimizer_MarkupCompile.lref
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Release\MainWindow.baml
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Release\Unoptimizer.g.resources
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Release\Unoptimizer.Properties.Resources.resources
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Release\Unoptimizer.csproj.GenerateResource.cache
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Release\Unoptimizer.csproj.CoreCompileInputs.cache
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Release\Unoptimizer.exe
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Release\Unoptimizer.pdb

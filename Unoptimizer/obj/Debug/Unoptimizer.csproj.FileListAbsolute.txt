@@ -1,0 +1,15 @@
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\bin\Debug\Unoptimizer.exe.config
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\bin\Debug\Unoptimizer.exe
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\bin\Debug\Unoptimizer.pdb
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Debug\Unoptimizer.csprojAssemblyReference.cache
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Debug\MainWindow.g.cs
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Debug\App.g.cs
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Debug\Unoptimizer_MarkupCompile.cache
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Debug\Unoptimizer_MarkupCompile.lref
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Debug\MainWindow.baml
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Debug\Unoptimizer.g.resources
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Debug\Unoptimizer.Properties.Resources.resources
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Debug\Unoptimizer.csproj.GenerateResource.cache
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Debug\Unoptimizer.csproj.CoreCompileInputs.cache
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Debug\Unoptimizer.exe
+C:\Users\bstassin.SSD\source\repos\Unoptimizer\Unoptimizer\obj\Debug\Unoptimizer.pdb
